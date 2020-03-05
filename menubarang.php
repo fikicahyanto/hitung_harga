@@ -1,0 +1,1 @@
+<a href='tambah.php'>Tambah Barang</a> | <a href='daftarbarang.php'>Daftar Barang</a>
